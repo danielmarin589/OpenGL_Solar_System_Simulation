@@ -1,4 +1,4 @@
-PSA: In order to run both of the project you should open the Task2.sln file. 
+PSA: In order to run the project you should open the Task2.sln file. 
 
 Firstly, in order to create a sphere in my project I used the Sphere class found on the website http://www.songho.ca/opengl/gl_sphere.html#sphere (the one that you gave us). I placed the class into a header and imported it into my project, calling functions from it in my main so as to create a sphere. Basically I'm using only one set of coordinates of sphere centered in (0,0,0), coordinates which I send to the buffer. What I actually do is, I render multiple spheres with coordinates (0,0,0) from the buffer and translate their position each time,so that I get 8 planets and a sun (9 spheres total). 
 

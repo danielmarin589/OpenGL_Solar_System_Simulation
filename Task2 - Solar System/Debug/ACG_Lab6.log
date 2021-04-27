@@ -1,0 +1,9 @@
+﻿          1 file(s) copied.
+          1 file(s) copied.
+  main.cpp
+C:\Users\Daniel\Documents\facultate\ACG\big hw\Task2 - Solar System\main.cpp(84,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel\Documents\facultate\ACG\big hw\Task2 - Solar System\main.cpp(84,20): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Daniel\Documents\facultate\ACG\big hw\Task2 - Solar System\main.cpp(333,28): warning C4101: 'nrChannnels': unreferenced local variable
+C:\Users\Daniel\Documents\facultate\ACG\big hw\Task2 - Solar System\main.cpp(461,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Daniel\Documents\facultate\ACG\big hw\Task2 - Solar System\main.cpp(502,27): warning C4018: '<': signed/unsigned mismatch
+  ACG_Lab6.vcxproj -> C:\Users\Daniel\Documents\facultate\ACG\big hw\Task2 - Solar System\Debug\ACG_Lab6.exe

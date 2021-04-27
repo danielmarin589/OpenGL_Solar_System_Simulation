@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\Lab6 - OpenGL\Lab6 - OpenGL-init\Lab6 - OpenGL\Debug\ACG_Lab6.exe
+C:\Users\Daniel\Desktop\Lab6 - OpenGL\Lab6 - OpenGL-init\Lab6 - OpenGL\Debug\ACG_Lab6.pdb
+C:\Users\Daniel\Documents\facultate\ACG\Lab6 - OpenGL\Lab6 - OpenGL-init\Lab6 - OpenGL\Debug\ACG_Lab6.exe
+C:\Users\Daniel\Documents\facultate\ACG\Lab6 - OpenGL\Lab6 - OpenGL-init\Lab6 - OpenGL\Debug\ACG_Lab6.pdb
+C:\Users\Daniel\Documents\facultate\ACG\big hw\Lab6 - OpenGL\Debug\ACG_Lab6.exe
+C:\Users\Daniel\Documents\facultate\ACG\big hw\Lab6 - OpenGL\Debug\ACG_Lab6.pdb
+C:\Users\Daniel\Documents\facultate\ACG\big hw\Task2\Debug\ACG_Lab6.exe
+C:\Users\Daniel\Documents\facultate\ACG\big hw\Task2\Debug\ACG_Lab6.pdb
+C:\Users\Daniel\Documents\facultate\ACG\big hw\Task2 - Solar System\Debug\ACG_Lab6.exe
+C:\Users\Daniel\Documents\facultate\ACG\big hw\Task2 - Solar System\Debug\ACG_Lab6.pdb
